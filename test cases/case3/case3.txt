@@ -1,12 +1,12 @@
 /***************************** testing ssl and sllv *******************************************/
 /*** hi level code *************mips assembly code *************************** machin code *********/
- /* int x = 10 ;                 addi $s0,$0,10      */           //ins_mem[0] = 32'h2010000A ;
- /* int y ;                      addi $s1,$0,0       */           //ins_mem[1] = 32'h20110000 ;
- /* y = x << 2 ;                 sll $s1,$s0,2       */           //ins_mem[2] = 32'h02008880 ;
- /* //storing y to memory        sw $s1,$0,0         */           //ins_mem[3] = 32'hAC110000 ;
- /* int a = 3 ;                  addi $t0,$0,3       */           //ins_mem[4] = 32'h20080003 ;
- /* int b = 20 ;                 addi $s2,$0,20      */           //ins_mem[5] = 32'h20120014 ;
- /* int c = 0 ;                  addi $s3,$0,0       */           //ins_mem[6] = 32'h20130000 ;
- /* c = b << a ;                 sllv $s3,$s2,$t0    */           //ins_mem[7] = 32'h02489804 ;
- /* //storing c to memory        sw $s3,$0,0         */           //ins_mem[8] = 32'hAC130000 ;
+ /* int x = 10 ;                 addi $s0,$0,10      */           ins_mem[0] = 32'h2010000A ;
+ /* int y ;                      addi $s1,$0,0       */           ins_mem[1] = 32'h20110000 ;
+ /* y = x << 2 ;                 sll $s1,$s0,2       */           ins_mem[2] = 32'h02008880 ;
+ /* //storing y to memory        sw $s1,$0,0         */           ins_mem[3] = 32'hAC110000 ;
+ /* int a = 3 ;                  addi $t0,$0,3       */           ins_mem[4] = 32'h20080003 ;
+ /* int b = 20 ;                 addi $s2,$0,20      */           ins_mem[5] = 32'h20120014 ;
+ /* int c = 0 ;                  addi $s3,$0,0       */           ins_mem[6] = 32'h20130000 ;
+ /* c = b << a ;                 sllv $s3,$s2,$t0    */           ins_mem[7] = 32'h02489804 ;
+ /* //storing c to memory        sw $s3,$0,0         */           ins_mem[8] = 32'hAC130000 ;
 /***************************************************************************************************/
