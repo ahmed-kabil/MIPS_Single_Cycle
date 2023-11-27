@@ -2,10 +2,15 @@
 •	contained instruction
 
 1- add       R_type
+
 2- sub       R_type
+
 2- and       R_type
+
 3- or        R_type
+
 4- nor       R_type
+
 5- xor       R_type
 
 6- sll       R_type
