@@ -30,21 +30,21 @@ mux_2x1_32bit mux2 (
 .out(PC_in)
 );
 
-program_counter PC (       //////////
+program_counter PC (      
 .clk(clk),
 .reset_n(reset_n),
 .pc_in(PC_in),
 .pc_out(PC_out)
 );
 
-insruction_memory/////////////
+insruction_memory
 #(.depth(8)) IM (
 .reset_n(reset_n),
 .A(PC_out),
 .RD(instr)
 );
 
-register_file RF ( /////////////////////
+register_file RF ( 
 .clk(clk),
 .reset_n(reset_n),
 .WE3(RegWrite),
@@ -56,14 +56,14 @@ register_file RF ( /////////////////////
 .RD2(RD2)
 );
 
-mux_2x1_5bit mux3 (      //////////
+mux_2x1_5bit mux3 (      
 .sel(RegDst),
 .in1(instr[20:16]),
 .in2(instr[15:11]),
 .out(WriteReg)
 );
 
-data_memory    //////////////
+data_memory    
 #(.depth(8)) DM (
 .clk(clk),
 .reset_n(reset_n),
@@ -74,12 +74,12 @@ data_memory    //////////////
 .test_value(test_value)
 );
 
-sign_extend SE (  ///////////////
+sign_extend SE (  
 .in(instr[15:0]),
 .out(SignImm)
 );
  
-ALU alu (        /////////////////
+ALU alu (        
 .ctrl(ALU_control),
 .srcA(RD1),
 .srcB(SrcB),
@@ -87,17 +87,17 @@ ALU alu (        /////////////////
 .result(ALU_result)
 );
 
-add4 add_4 (      ////////////
+add4 add_4 (      
 .in(PC_out),
 .out(PCPlus4)
 );
 
-beq_shift2bit shifter1 (    //////////
+beq_shift2bit shifter1 (   
 .in(SignImm),
 .out(PCBranch)
 );
 
-jump_shift2bit shifter2 (   /////////
+jump_shift2bit shifter2 (  
 .in(instr[25:0]),
 .out(PCJump)
 );
