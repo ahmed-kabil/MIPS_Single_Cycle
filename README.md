@@ -1,5 +1,5 @@
 # MIPS_Single_Cycle
-•	contained instruction
+##contained instruction
 
 1- add       R_type
 
