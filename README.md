@@ -11,13 +11,13 @@
 
        3.        and      
 
-       4.       *** or ***
+       4.        or
 
        5.        nor       
 
-5- xor       R_type
+       6.        xor 
 
-6.      sll       R_type
+       7.      sll       R_type
 
 >7.      sllv      R_type
 
