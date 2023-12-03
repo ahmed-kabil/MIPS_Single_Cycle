@@ -1,7 +1,9 @@
 # MIPS_Single_Cycle
 
 
-### contained instruction
+## contained instruction
+
+### R_Type
 
 1- add       _R_type_
 
