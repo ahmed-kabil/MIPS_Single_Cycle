@@ -11,7 +11,7 @@
 
 >3- or       R_type
 
-4- nor       R_type
+>4- nor       R_type
 
 5- xor       R_type
 
