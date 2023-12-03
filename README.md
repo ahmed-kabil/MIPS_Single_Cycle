@@ -17,7 +17,7 @@
 
 6- sll       R_type
 
-7- sllv      R_type
+7. sllv      R_type
 
 8.      lw        i_type
          - ffgfggcgvg
