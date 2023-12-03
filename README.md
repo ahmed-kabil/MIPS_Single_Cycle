@@ -20,7 +20,7 @@
 7.      sllv      R_type
 
 8.      lw        i_type
-         - ffgfggcgvg
+         -ffgfggcgvg
 
 9.      sw        i_type
 
