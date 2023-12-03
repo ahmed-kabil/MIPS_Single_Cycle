@@ -21,13 +21,13 @@
 
 8- lw        i_type
 
-9- sw        i_type
+9. sw        i_type
 
-10- beq      i_type
+10. beq      i_type
 
-11- addi     i_type
+- addi     i_type
 
-12- j        j_type
+- j        j_type
 
 
 
