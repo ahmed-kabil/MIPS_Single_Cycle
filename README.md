@@ -20,7 +20,6 @@
        7.        sll      
 
        8.        sllv
-                 -          ahmed
 
 - ####   I_Type :
 
