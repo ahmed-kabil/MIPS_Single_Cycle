@@ -11,9 +11,9 @@
 
        3.        and      
 
->       4.       __or__      
+       4.       __or__      
 
->4- nor       R_type
+  5. nor       R_type
 
 5- xor       R_type
 
