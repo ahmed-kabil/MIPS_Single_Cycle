@@ -31,7 +31,7 @@
 
        4.        addi 
 
-- ####   I_Type
+- ####   J_Type
 
        1.        j (jump)
 
