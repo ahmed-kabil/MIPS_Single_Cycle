@@ -25,13 +25,15 @@
 
        1.        lw
 
-9.      sw        i_type
+       2.        sw    
 
-10.     beq      i_type
+       3.        beq  
 
-- addi     i_type
+       4.        addi 
 
-- j        **j_type**
+- ####   I_Type
+
+       1.        j (jump)
 
 
 
