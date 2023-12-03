@@ -19,12 +19,12 @@
 
 7- sllv      R_type
 
-8. lw        i_type
-- ffgfggcgvg
+8.      lw        i_type
+         - ffgfggcgvg
 
-9. sw        i_type
+9.      sw        i_type
 
-10. beq      i_type
+10.     beq      i_type
 
 - addi     i_type
 
