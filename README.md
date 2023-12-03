@@ -9,7 +9,7 @@
 
 2- and       ___R_type___
 
->3- or       >R_type
+>3- or       R_type
 
 4- nor       R_type
 
