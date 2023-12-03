@@ -19,7 +19,7 @@
 
        7.        sll      
 
-       8.        sllv 
+       8.        __sllv__ 
 
 - ####   I_Type
 
