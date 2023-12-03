@@ -3,7 +3,7 @@
 
 - ###    Contained Instruction
 
-1.####   R_Type
+1. ####   R_Type
 
 1- add       
 
