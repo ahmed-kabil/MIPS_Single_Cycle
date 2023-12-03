@@ -3,11 +3,11 @@
 
 ### contained instruction
 
-1- add       ___R_type___
+1- add       _R_type_
 
-2- sub       R_type
+2- sub       **R_type**
 
-2- and       R_type
+2- and       *_*R_type__*
 
 3- or        R_type
 
