@@ -3,7 +3,7 @@
 
 - ###    Contained Instruction
 
-- ####   R_Type
+- ####   R_Type :
 
        1.        add       
 
@@ -21,7 +21,7 @@
 
        8.        sllv
 
-- ####   I_Type
+- ####   I_Type :
 
        1.        lw
 
@@ -31,7 +31,7 @@
 
        4.        addi 
 
-- ####   J_Type
+- ####   J_Type :
 
        1.        j (jump)
 
