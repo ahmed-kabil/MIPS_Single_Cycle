@@ -21,8 +21,9 @@
 
        8.        sllv 
 
-8.      lw        i_type
-        - ffgfggcgvg
+- ####   I_Type
+
+       1.        lw
 
 9.      sw        i_type
 
