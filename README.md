@@ -46,6 +46,6 @@ MY GitHub Link  [  github  ](https://github.com/ahmed-kabil)
 
 
 
-<img src="https://github.com/ahmed-kabil/MIPS_Single_Cycle/assets/141506830/0f7fd7e3-953d-4f77-a36b-e75eb6fb6dd4" width="300" >
+<img src="https://github.com/ahmed-kabil/MIPS_Single_Cycle/assets/141506830/0f7fd7e3-953d-4f77-a36b-e75eb6fb6dd4" width="600" >
 
 
