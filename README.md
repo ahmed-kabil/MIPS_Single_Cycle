@@ -40,7 +40,7 @@
 
 
 
-MY GitHub Link [github] (gggggdggvgg"clic here")
+MY GitHub Link [github] (gggggdggvgg"clic here").
 
 
 
