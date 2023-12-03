@@ -5,13 +5,13 @@
 
 - ####   R_Type
 
-          1.        add       
+       1.        add       
 
-          2.        sub       
+       2.        sub       
 
-          3.        and      
+       3.        and      
 
-         >       __or__      
+>       4.       __or__      
 
 >4- nor       R_type
 
