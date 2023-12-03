@@ -30,7 +30,7 @@
 
 - addi     i_type
 
-- j        j_type
+- j        **j_type**
 
 
 
