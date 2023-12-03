@@ -15,7 +15,7 @@
 
 5- xor       R_type
 
-6-      sll       R_type
+6.      sll       R_type
 
 7.      sllv      R_type
 
