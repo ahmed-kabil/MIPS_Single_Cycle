@@ -17,9 +17,9 @@
 
        6.        xor 
 
-       7.      sll       R_type
+       7.        sll      
 
->7.      sllv      R_type
+       8.        sllv 
 
 8.      lw        i_type
         - ffgfggcgvg
