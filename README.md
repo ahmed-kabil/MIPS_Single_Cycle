@@ -3,15 +3,15 @@
 
 - ###    Contained Instruction
 
-- ####         R_Type
+- ####   R_Type
 
-1- add       
+          1.        add       
 
-2- sub       
+          2.        sub       
 
-2- and       ___R_type___
+          3.        and      
 
->3- __or__       R_type
+         >3-      __or__      
 
 >4- nor       R_type
 
