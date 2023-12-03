@@ -1,7 +1,7 @@
 # MIPS_Single_Cycle
 
 
-- ###    Contained Instruction
+-- ###    Contained Instruction
 
 - ####   R_Type :
 
