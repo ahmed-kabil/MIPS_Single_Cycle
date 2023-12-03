@@ -40,33 +40,3 @@
 
 
 
-MY GitHub Link  [  github  ](https://github.com/ahmed-kabil)
-
-
-
-
-
-
-[![image](https://github.com/ahmed-kabil/MIPS_Single_Cycle/assets/141506830/0f7fd7e3-953d-4f77-a36b-e75eb6fb6dd4)](https://github.com/ahmed-kabil)
-
-
-<div>
-
-
-<img src="https://github.com/ahmed-kabil/MIPS_Single_Cycle/assets/141506830/0f7fd7e3-953d-4f77-a36b-e75eb6fb6dd4" width="100" >
-
-<img src="https://github.com/ahmed-kabil/MIPS_Single_Cycle/assets/141506830/0f7fd7e3-953d-4f77-a36b-e75eb6fb6dd4" width="100" >
-
-</div>
-
-
-
-<div>
-
-
-![imageffff](https://github.com/ahmed-kabil/MIPS_Single_Cycle/assets/141506830/0f7fd7e3-953d-4f77-a36b-e75eb6fb6dd4)
-
-![imageffff](https://github.com/ahmed-kabil/MIPS_Single_Cycle/assets/141506830/0f7fd7e3-953d-4f77-a36b-e75eb6fb6dd4)
-
-
-</div>
