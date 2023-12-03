@@ -3,7 +3,7 @@
 
 ## contained instruction
 
-### R_Type
+### 1. R_Type
 
 1- add       _R_type_
 
