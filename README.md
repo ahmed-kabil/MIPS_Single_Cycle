@@ -7,7 +7,7 @@
 
 2- sub       **R_type**
 
-2- and       *_*R_type__*
+2- and       ___R_type___
 
 3- or        R_type
 
