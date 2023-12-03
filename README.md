@@ -13,7 +13,7 @@
 
        4.       __or__      
 
-  5. nor       R_type
+       5. nor       R_type
 
 5- xor       R_type
 
