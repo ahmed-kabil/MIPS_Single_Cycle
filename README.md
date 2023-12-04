@@ -38,6 +38,8 @@
 
 _______________________________
 
+> hint
+
  ##### sll $S0, $S1, 2 
 
 |opcode |  rs |  rt |  rd |shamt | funct |
