@@ -1,5 +1,5 @@
 # MIPS_Single_Cycle
-
+       بسم الله الرحمن الرحيم       ##
 - ###    design block
 
   ![design block](https://github.com/ahmed-kabil/MIPS_Single_Cycle/assets/141506830/3acb65fd-ed4a-458e-8ef5-8208eaa08a5e)
