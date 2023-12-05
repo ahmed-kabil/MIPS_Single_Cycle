@@ -1,4 +1,5 @@
 # MIPS_Single_Cycle
+> hint -there are a little different between my design and standard design
 
 - ###    design block
 
